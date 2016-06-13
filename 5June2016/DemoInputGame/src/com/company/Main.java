@@ -1,5 +1,6 @@
 package com.company;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
@@ -12,6 +13,8 @@ public class Main {
         System.out.println(choice);*/
         Scanner s =new Scanner(System.in);
         int a = s.nextInt();
-        System.out.println(a);
+
+        Random r = new Random();
+        r.
     }
 }

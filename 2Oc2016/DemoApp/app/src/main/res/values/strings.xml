@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoApp New</string>
+    <string name="textBox1Value">Hello World again</string>
+    <string name="lastName">My Last Name</string>
+    <string name="clickhere">Click Here</string>
+    <string name="newText">New Text View</string>
+</resources>

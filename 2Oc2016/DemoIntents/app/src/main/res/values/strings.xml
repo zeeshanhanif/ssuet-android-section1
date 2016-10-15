@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoIntents</string>
+    <string name="sendEmail">Send Email</string>
+    <string name="showMap">Show Map</string>
+</resources>

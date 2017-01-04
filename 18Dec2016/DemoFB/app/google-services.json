@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "210906480476",
+    "firebase_url": "https://ssuetfb.firebaseio.com",
+    "project_id": "ssuetfb",
+    "storage_bucket": "ssuetfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210906480476:android:7094dc7cd2afd9d1",
+        "android_client_info": {
+          "package_name": "com.example.android.demofb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210906480476-q1nr55lgc3npik8gm9f09sn14efjquf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRbtCHrsKfpsc0oGdGdFMn4sIMjx8E88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

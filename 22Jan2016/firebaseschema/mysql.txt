@@ -1,0 +1,42 @@
+Sender
+Receiver
+MessageText
+messageTime
+-------------
+mysql
+====
+User Table -- UserId, name, contact, email
+messages Table -- messageId, senderId, receiverId, timestamp, text,
+---
+User
+==
+Id, name, email
+123, Zeeshan, abc@gmail.com
+456, Ahsan, xyz@gmail.com
+789, Ishaq, a123@gmail.com
+---------------------------
+Message
+====
+Id, senderId, receiverId, timestamp, text
+1, 123,456, 10:00AM , "Hello"
+2, 456,123, 10:01AM , "Hi",
+3, 123,456, 10:05AM , "how is study going on"
+4, 789, 123, 11:00AM, "Hello"
+5, 123,789, 11:30AM, "Hey"
+
+
+1, 123,456, 10:00AM , "Hello"
+3, 123,456, 10:05AM , "how is study going on"
+
+
+
+
+
+
+
+
+
+
+
+
+

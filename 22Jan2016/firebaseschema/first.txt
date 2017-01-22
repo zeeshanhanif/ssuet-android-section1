@@ -1,0 +1,68 @@
+{
+  chatApp: {
+      users: {
+	"zeeshan": {
+	    "name": "Zeeshan",
+	    "email": "abc@gmail.com,
+	    "id": "zeeshan"
+	},
+	"ahsan": {
+	    "name": "Ahsan",
+	    "email": "xyz@gmail.com,
+	    "id": "ahsan"
+	},
+	"ishaq": {
+	    "name": "Ishaq",
+	    "email": "a123@gmail.com,
+	    "id": "ishaq"
+	}
+      },
+
+
+      "messages": {
+      	"-K_x4NLipjlS5vNA1KVU1":{
+	  "id":"-K_x4NLipjlS5vNA1KVU1",
+	  "senderId":"zeeshan",
+          "receiverId": "ahsan",
+	  "timestamp":"10:00AM",
+          "text": "Hello"
+        },
+	"-K_x4NLipjlS5vNA1KVU2":{
+	  "id":"-K_x4NLipjlS5vNA1KVU2",
+	  "senderId":"ahsan",
+          "receiverId": "zeeshan",
+	  "timestamp":"10:01AM",
+          "text": "Hi"
+        },
+	"-K_x4NLipjlS5vNA1KVU3":{
+	  "id":"-K_x4NLipjlS5vNA1KVU3",
+	  "senderId":"zeeshan",
+          "receiverId": "ahsan",
+	  "timestamp":"10:05AM",
+          "text": "how is study going on"
+        },
+	"-K_x4NLipjlS5vNA1KVU4":{
+	  "id":"-K_x4NLipjlS5vNA1KVU4",
+	  "senderId":"ishaq",
+          "receiverId": "zeeshan",
+	  "timestamp":"11:00AM",
+          "text": "Hello"
+        },
+	"-K_x4NLipjlS5vNA1KVU5":{
+	  "id":"-K_x4NLipjlS5vNA1KVU5",
+	  "senderId":"zeeshan",
+          "receiverId": "ishaq",
+	  "timestamp":"11:30AM",
+          "text": "Hey"
+        }
+      }
+
+  }
+}
+
+
+
+
+
+
+

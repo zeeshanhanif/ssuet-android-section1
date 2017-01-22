@@ -1,0 +1,84 @@
+{
+  chatApp: {
+      users: {
+	"zeeshan": {
+	    "name": "Zeeshan",
+	    "email": "abc@gmail.com,
+	    "id": "zeeshan"
+	},
+	"ahsan": {
+	    "name": "Ahsan",
+	    "email": "xyz@gmail.com,
+	    "id": "ahsan"
+	},
+	"ishaq": {
+	    "name": "Ishaq",
+	    "email": "a123@gmail.com,
+	    "id": "ishaq"
+	}
+      },
+
+
+      "messages": {
+	"123" : {
+          "1":{
+	    "id":"1",
+   	    "senderId":"zeeshan",
+            "receiverId": "ahsan",
+	    "timestamp":"10:00AM",
+            "text": "Hello"
+          },
+	  "2":{
+	    "id":"2",
+	    "senderId":"ahsan",
+            "receiverId": "zeeshan",
+	    "timestamp":"10:01AM",
+            "text": "Hi"
+          },
+	  "3":{
+	    "id":"3",
+	    "senderId":"zeeshan",
+            "receiverId": "ahsan",
+	    "timestamp":"10:05AM",
+            "text": "how is study going on"
+          }	
+        },
+        "456": {
+	  "4":{
+	    "id":"4",
+	    "senderId":"ishaq",
+            "receiverId": "zeeshan",
+	    "timestamp":"11:00AM",
+            "text": "Hello"
+          },
+	  "5":{
+	    "id":"5",
+	    "senderId":"zeeshan",
+            "receiverId": "ishaq",
+	    "timestamp":"11:30AM",
+            "text": "Hey"
+          }
+        }	
+      },
+	
+      "conversation": {
+      	"zeeshan-ahsan": {
+           conversationId:"123",
+        },
+	"ahsan-zeeshan": {
+           conversationId:"123",
+        },        
+	"zeeshan-ishaq": {
+          conversationId:"456",	
+        },
+      },
+
+  }
+}
+
+
+
+
+
+
+
